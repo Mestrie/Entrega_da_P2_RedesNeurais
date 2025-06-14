@@ -5,15 +5,15 @@ Este repositório contém o código, documentação e resultados referentes ao t
 
 ## Reconhecimentos e Direitos Autorais
 
-@autores: Antonio Fialho da Silva Neto ,Justno Felipe Lopes Nunes, Thales Gustavo Mendes Nunes  
+@autores: Antonio Fialho da Silva Neto ,Justno Felipe Lopes Nunes, Thales Gustavo Mendes Nunes.
 
-@contato: antonio.fialho@discente.ufma.br, justino.felipe@discente.ufma.br, thales.gustavo@discente.ufma.br
+@contato: antonio.fialho@discente.ufma.br, justino.felipe@discente.ufma.br, thales.gustavo@discente.ufma.br.
 
-@data última versão: 14/06/2025  
+@data última versão: 14/06/2025. 
 
-@versão: 1.0  
+@versão: 1.0.
 
-@outros repositórios: https://github.com/AntonioFialhoSN, https://github.com/Mestrie, https://github.com/thalesgmendes 
+@outros repositórios: https://github.com/AntonioFialhoSN, https://github.com/Mestrie, https://github.com/thalesgmendes.
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
